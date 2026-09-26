@@ -1,0 +1,6 @@
+[submodule "catch23-public"]
+	path = catch23-public
+	url = https://github.com/ryanbernsteinsbu/catch23-public.git
+[submodule "Catch23-web"]
+	path = Catch23-web
+	url = https://github.com/ryanbernsteinsbu/Catch23-web.git
