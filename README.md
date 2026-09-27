@@ -1,6 +1,6 @@
 # Catch23
 
-* Catch23 is an open-source fantasy baseball platform designed to provide commissioners and league members with a flexible alternative to traditional fantasy sports services.
+* Catch23 is a fantasy baseball platform designed to provide commissioners and league members with fantasy sports services.
 * This web application was built using a full custom CI/CD pipeline through GitHub actions, Vercel, and agile sprints using Jira 
 
 ## Guide
